@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>BeethovenWienerJahre</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width; initial-scale=1">
+        <meta name="description" content="HTML und CSS sind die Basis aller Webseiten">
+        <link rel="stylesheet" href="styling.css">
+    </head>
+
+<body>
+        <header>
+            <h1>Wiener Jahre</h1>
+        </header>
+<main>
+            <article>
+                <img src="denkmal.jpg" alt="Denkmal Beethovens">
+                <p>
+               Im Jahr 2020 feiert Ludwig van Beethoven seinen 250. Geburtstag. Ein Grund für uns, einen Stadtspaziergang auf den 
+               Spuren Beethovens zu unternehmen. Unsere Tour beginnt beim Pasqualati-Haus im 1.Bezirk und führt hinaus in die 
+               ehemaligen Vororte Heiligenstadt und Nussdorf im 19. Wiener Bezirk.
+                </p>
+            </article>
+
+        </main>
+
+        <footer>
+            <p>&copy; Hausaufgabe 1_2 verlinkte Seiten</p>
+        </footer>
+
+    </body>
+</html>

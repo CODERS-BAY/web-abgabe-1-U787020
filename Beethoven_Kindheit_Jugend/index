@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>BeethovenKindheitJugend</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width; initial-scale=1">
+        <meta name="description" content="HTML und CSS sind die Basis aller Webseiten">
+        <link rel="stylesheet" href="styling.css">
+    </head>
+
+<body>
+        <header>
+            <h1>Beethovens Kindheit und Jugend</h1>
+        </header>
+<main>
+            <article>
+                <img src="unnamed.jpg" alt="Kinderbild Beethovens">
+                <p>
+                Ludwig van Beethoven entstammte einer aus dem flämischen Brabant (Mechelen) eingewanderten Musikerfamilie. Er wurde 
+                im Dezember 1770 geboren und am 17. Dezember 1770 getauft. (Man nimmt an, dass er am 16. geboren wurde. Da die 
+                Kindersterblichkeitsrate damals sehr hoch war, taufte man nach üblicherweise einem Tag nach der Geburt.) 
+                Seine Eltern waren Johann van Beethoven und Maria Magdalena van Beethoven, verwitwete Leym, geborene Keverich. 
+                Aus dieser Ehe gingen sieben Kinder hervor, von denen ausser Ludwig nur zwei (Kaspar Anton Karl und Nikolaus Johann) 
+                die ersten Jahre überlebten. Die sich früh abzeichnende musikalische Begabung bei Ludwig van Beethoven erhielt, wie 
+                es der damaligen Tradition entsprach, durch den Vater die erste Stütze. Dieser Unterricht war jedoch nicht auf 
+                Förderung individueller Anlagen des Kindes ausgerichtet – improvisieren wurde unterbunden – als vielmehr auf das 
+                fleissige Üben, um dann die Noten richtig vom Blatt spielen zu können. Der Vater liess den siebenjährigen Ludwig 
+                „als Söhngen von sechs Jahren“ erstmals in einem Kölner Konzert auftreten. Er sollte der Musikwelt wohl als 
+                Wunderkind vorgeführt werden. (Auf den frühen Drucken ist Beethovens Alter stets zwei Jahre jünger angegeben.) 
+                Sein eigentlicher Lehrer und Förderer war aber Christian Gottlob Neefe, der 1779 als Musiker nach Bonn kam, das 
+                musikalische Talent Ludwigs erkannte und ihn neben dem Klavierspiel Generalbass und Komposition lehrte. 
+                Er vermittelte ihm auch Musikwerke zeitgenössischer Komponisten, der Mannheimer und Wiener Schule.
+                Im Februar 1781 wurde Neefe Hoforganist. Und als Neefe im Juni 1782 Bonn für kurze Zeit verliess, vertrat ihn der 
+                11jährige Beethoven. Da Ludwig seinen Schulunterricht mit der lateinischen Tyronenschule (Vorschule für das Gymnasium) 
+                bereits in diesem Jahr beendete, bemühte sich vor allem Neefe ihm im Umgang mit angesehenen Familien eine allgemeine 
+                Bildung beizubringen. Beethoven knüpfte Kontakte zu Mitgliedern der Hofkapelle, zu den Reichas und Rombergs, zu Ries 
+                und Simrock, und er befreundete sich mit dem Medizinstudenten Wegeler, der ihn in das Haus der Witwe von Breuning 
+                einführte. Mit 14 Jahren wurde Beethoven besoldeter 2. Hoforganist, zu 150 Gulden Jahressold.
+                </p>
+            </article>
+
+        </main>
+
+        <footer>
+            <p>&copy; Hausaufgabe 1_2 verlinkte Seiten</p>
+        </footer>
+
+    </body>
+</html>
